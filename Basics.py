@@ -5,6 +5,7 @@
 
 
 import csv
+print("Hello")
 f=open("guns.csv")
 g=csv.reader(f)
 data=list(g)
